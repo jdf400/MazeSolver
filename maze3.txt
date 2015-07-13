@@ -1,0 +1,13 @@
+xs.....xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxx....x..........x..........xxx
+x......xxxx.xxxx.xxxxxxxx.xxxxx.xxx
+xxx.xx.xxxx.xxxx..........xxxxx.xxx
+xxx.xx....x.xxxxxxxxx.xxxxxxxxx.xxx
+x...xxxxxxx.xxx.......xxxxxxxxx.xxx
+x.xxxxxxxxx.xxx.xxxxxxxxxxxxxxx.xxx
+x.xx........xxx.xxxx.....xxxxxx.xxx
+x....xxxxxxxxxx.xxxx.xxx........xxx
+xxxxxxx.........xxxx.xxxxxxxxxxxxxx
+xxxx.xxxxx.xxxx.xxxx.........exx.xx
+xxxx.......xxxx.xxxxxxxx.xxxxxxx.xx
+xxxxxxxxxxxxxxxxxxxxxxxx.........xx
